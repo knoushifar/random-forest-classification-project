@@ -30,7 +30,7 @@ random-forest-classification-project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/random-forest-classification-project.git
+git clone https://github.com/knoushifar/random-forest-classification-project.git
 cd random-forest-classification-project
 ```
 
